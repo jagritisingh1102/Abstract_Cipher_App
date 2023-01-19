@@ -1,3 +1,2 @@
--e git+https://github.com/jagriti161196/AbstractCipherApp.git@61927563f0b1162cbcc0d08aed14a39404b35cff#egg=abs_cipher
 click==8.0.4
 pytest==7.0.1
